@@ -1,5 +1,3 @@
-<img width="4032" height="1008" alt="image" src="https://github.com/user-attachments/assets/5e6abc4e-08fd-4ef0-96af-7eddd4f9cba9" /><img width="4032" height="1635" alt="image" src="https://github.com/user-attachments/assets/f64789ca-a0a6-4d60-bd64-02c232d6fc2e" /># 👋 Hola, soy Ismael
-
 ## 🏗 Analista Programador | Technical Lead | Arquitectura de Soluciones
 
 Desarrollador de software con experiencia en arquitectura, integración de sistemas, QA, DevOps y modernización tecnológica.
