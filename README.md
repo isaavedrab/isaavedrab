@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ismael
+<img width="4032" height="1008" alt="image" src="https://github.com/user-attachments/assets/5e6abc4e-08fd-4ef0-96af-7eddd4f9cba9" /><img width="4032" height="1635" alt="image" src="https://github.com/user-attachments/assets/f64789ca-a0a6-4d60-bd64-02c232d6fc2e" /># 👋 Hola, soy Ismael
 
 ## 🏗 Analista Programador | Technical Lead | Arquitectura de Soluciones
 
@@ -62,3 +62,14 @@ Desarrollo una plataforma de videojuegos basada en React + Electron enfocada en 
 > Los fundamentos no.
 >
 > Aprender, adaptarse y construir soluciones útiles sigue siendo lo más importante.
+
+
+## 📫 Encuéntrame en:
+
+- LinkedIn: https://linkedin.com/in/ismael-alfredo-saavedra-bauzá-6537b563
+- X (Twitter): https://x.com/isaavedrab
+- GitHub: https://github.com/isaavedrab
+
+## 🎵 Intereses
+Además de la tecnología, también disfruto la música y la creación de contenido.
+📺 YouTube: https://youtube.com/@vgsoundtest
