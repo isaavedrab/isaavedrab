@@ -1,105 +1,64 @@
-
 # 👋 Hola, soy Ismael
 
-## 🏗 Arquitecto de Plataforma | QA Lead | DevOps | Líder Técnico
+## 🏗 Analista Programador | Technical Lead | Arquitectura de Soluciones
 
-Apasionado por diseñar soluciones robustas, escalables y mantenibles para entornos institucionales y corporativos.
+Desarrollador de software con experiencia en arquitectura, integración de sistemas, QA, DevOps y modernización tecnológica.
 
-Actualmente trabajo combinando arquitectura de software, aseguramiento de calidad, DevOps, integración de sistemas y liderazgo técnico, participando tanto en la definición de soluciones como en su implementación y operación.
+Desde 2017 he trabajado en proyectos .NET, PHP, Laravel, Vue, Ionic, PostgreSQL, React, Next.js y NestJS, participando tanto en desarrollo como en liderazgo técnico, diseño de soluciones y mejora continua.
 
----
+Actualmente colaboro en la evolución tecnológica de plataformas institucionales, impulsando iniciativas de reducción de deuda técnica, integración de sistemas, APIs de servicios y modernización de aplicaciones.
 
-## 🚀 Sobre mí
+### 🚀 Tecnologías
 
-- 🏢 Referente institucional en TI
-- 🏗 Arquitecto de plataformas y aplicaciones
-- ✅ Líder de QA y mejora continua
-- ⚙️ DevOps Engineer
-- 🗄️ DBA PostgreSQL
-- 🔄 Especialista en integración de sistemas
-- 📋 Gestión de proyectos tecnológicos
-- 📖 Documentación técnica y estandarización de procesos
+**Frontend**
+- React
+- Next.js
+- Vue
+- Tailwind CSS
+- shadcn/ui
 
----
+**Backend**
+- NestJS
+- Node.js
+- Express
+- Laravel
+- PHP
+- Prisma ORM
 
-## 🛠 Stack Tecnológico
+**Base de Datos**
+- PostgreSQL
+- SQL Server
+- MySQL
 
-### Backend
+**Infraestructura**
+- Linux
+- Docker
+- Apache
+- GitHub
 
-![PHP](https://skillicons.dev/icons?i=php,nodejs)
-
-### Frontend
-
-![Frontend](https://skillicons.dev/icons?i=nextjs,vue,js,ts)
-
-### Bases de Datos
-
-![DB](https://skillicons.dev/icons?i=postgres,mysql)
-
-### DevOps & Infraestructura
-
-![DevOps](https://skillicons.dev/icons?i=linux,docker,nginx,apache,git,bash)
-
-### Herramientas
-
-![Tools](https://skillicons.dev/icons?i=vscode,github,postman)
-
----
-
-## 🎯 Áreas de Especialización
+### 💡 En qué me enfoco
 
 - Arquitectura de Software
-- Quality Assurance (QA)
-- DevOps y Automatización
-- Integración SAP Business One
-- API Gateway y Microservicios
-- PostgreSQL
-- Linux Server Administration
-- Diseño de procesos institucionales
-- Gestión documental y trazabilidad
-- Observabilidad y monitoreo
+- Integración Empresarial
+- APIs y Microservicios
+- Quality Assurance
+- DevOps
+- Modernización de Sistemas
+- Mejora Continua
+- Automatización de Procesos
+
+### 🤖 IA como herramienta de ingeniería
+
+Utilizo IA para acelerar análisis, documentación, testing, migraciones y desarrollo, manteniendo siempre supervisión técnica, validación funcional y control de calidad.
+
+### 🎮 Proyecto personal
+
+Desarrollo una plataforma de videojuegos basada en React + Electron enfocada en unificar bibliotecas, emuladores, contenido multimedia e interacción social dentro de un único ecosistema.
 
 ---
 
-## 🔥 Actualmente trabajando en
-
-- Automatización de procesos institucionales
-- Arquitecturas basadas en microservicios
-- OCR para procesamiento documental
-- Integraciones SAP Business One
-- Plataformas de pagos y rendiciones
-- Mejora continua de experiencia usuaria (UX)
-
----
-
-## 📊 Estadísticas
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=github-dark-blue)
-
----
-
-## 🏆 Logros
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=darkhub&no-frame=true&row=1)
-
----
-
-## 💡 Filosofía
-
-> La tecnología no consiste en escribir más código.
+> La tecnología cambia constantemente.
 >
-> Consiste en diseñar soluciones simples, mantenibles y sostenibles que resuelvan problemas reales.
-
----
-
-## 📫 Contacto
-
-- GitHub: https://github.com/TU_USUARIO
-
----
-
-⭐ Siempre buscando mejorar procesos, calidad y experiencia de usuario mediante tecnología y buenas prácticas.
+> Los fundamentos no.
+>
+> Aprender, adaptarse y construir soluciones útiles sigue siendo lo más importante.
